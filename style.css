@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  #imgCanvas {
+    border: 1px solid #ddd;
+  }
+  
+  .buttons {
+    margin-top: 10px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    background-color: #ddd;
+    border: 1px solid #ccc;
+    cursor: pointer;
+  }
+  
